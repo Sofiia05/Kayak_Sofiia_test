@@ -1,5 +1,4 @@
 # Kayak_Sofiia_test
-Web UI tests for https://www.kayak.ch/ 
 
 TASK:
 - Create Web UI test which proves that https://www.kayak.ch/ always return a roundtrip flight below certain price. 
